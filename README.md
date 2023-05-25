@@ -15,6 +15,7 @@
 | ==Eingang Iven==  | 25.5.2023 |        | 400     | -143,39 | von Konto Iven  |
 | ==Eingang Anita== | 25.5.2023 |        | 400     | 256,61  | von Konto A&T   |
 | Laderegler Solar  | 25.5.2023 | 50     |         | 206,61  | Kleinanzeigen   |
+| USB-Ports QC3     | 25.5.2023 | 9      |         | 197,61  | Amazon          |
 
 
 ### geplante Kosten
