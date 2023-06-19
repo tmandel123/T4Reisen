@@ -1,21 +1,32 @@
 ### tatsächliche Kosten
 
-| Kostenart         | Datum     | Kosten | Eingang | Saldo   | Bemerkung       |
-|-------------------|-----------|--------|---------|---------|-----------------|
-| ==Eingang Anita== | 13.3.2023 |        | 3750    | +3750   | von Konto A&T   |
-| Kauf              | 13.3.2023 | 7200   |         | -3450   |                 |
-| Kennzeichen       | 14.3.2023 | 20,70  |         | -3470,7 | Kennzeichenking |
-| ==Eingang Iven==  | 14.3.2023 |        | 3750    | +279,3  | von Konto Jens  |
-| Zulasssung        | 20.3.2023 | 44,50  |         | +234,8  |                 |
-| Kennzeichenhalter | 20.3.2023 | 6,99   |         | +227,81 | ebay            |
-| Tanken            | 20.3.2023 | 97,86  |         | +129,95 | Erstfüllung     |
-| Versicherung 2023 | 12.4.2023 | 408,84 |         | -278,89 |                 |
-| KFZ Steuer 2023   | 20.4.2023 | 200    |         | -478,89 | bis 30.3.2024   |
-| Rostschutz        | 22.5.2023 | 64,50  |         | -543,39 | RostDoc Kiel    |
-| ==Eingang Iven==  | 25.5.2023 |        | 400     | -143,39 | von Konto Iven  |
-| ==Eingang Anita== | 25.5.2023 |        | 400     | 256,61  | von Konto A&T   |
-| Laderegler Solar  | 25.5.2023 | 50     |         | 206,61  | Kleinanzeigen   |
-| USB-Ports QC3     | 25.5.2023 | 9      |         | 197,61  | Amazon          |
+| Kostenart                 | Datum      | Kosten | Eingang | Saldo   | Bemerkung       |
+|---------------------------|------------|--------|---------|---------|-----------------|
+| ==Eingang Anita==         | 13.03.2023 |        | 3750    | +3750   | von Konto A&T   |
+| Kauf                      | 13.03.2023 | 7200   |         | -3450   |                 |
+| Kennzeichen               | 14.03.2023 | 20,70  |         | -3470,7 | Kennzeichenking |
+| ==Eingang Iven==          | 14.03.2023 |        | 3750    | +279,3  | von Konto Jens  |
+| Zulasssung                | 20.03.2023 | 44,50  |         | +234,8  |                 |
+| Kennzeichenhalter         | 20.03.2023 | 6,99   |         | +227,81 | ebay            |
+| Tanken                    | 20.03.2023 | 97,86  |         | +129,95 | Erstfüllung     |
+| Versicherung 2023         | 12.04.2023 | 408,84 |         | -278,89 |                 |
+| KFZ Steuer 2023           | 20.04.2023 | 200,00 |         | -478,89 | bis 30.3.2024   |
+| Rostschutz                | 22.05.2023 | 64,50  |         | -543,39 | RostDoc Kiel    |
+| ==Eingang Iven==          | 25.05.2023 |        | 400     | -143,39 | von Konto Iven  |
+| ==Eingang Anita==         | 25.05.2023 |        | 400     | 256,61  | von Konto A&T   |
+| Laderegler (defekt)       | 25.05.2023 | 50,00  |         | 206,61  | Kleinanzeigen   |
+| USB-Ports QC3             | 25.05.2023 | 9,00   |         | 197,61  | Amazon          |
+| Starterbatterie           | 25.05.2023 | 67,90  |         | 129,71  | Batterie24.de   |
+| Schalterpanel             | 06.06.2023 | 14,99  |         | 114,72  | ebay.de         |
+| ==Eingang Iven==          | 07.06.2023 |        | 200     | 314,72  | von Konto Iven  |
+| ==Eingang Anita==         | 07.06.2023 |        | 200     | 514,72  | von Konto A&T   |
+| Solar Modul               | 12.06.2023 | 134,07 |         | 380,65  | bau-tech.shop   |
+| 20m Kabel                 | 12.06.2023 | 15,00  |         | 365,65  | Kleinanzeigen   |
+| 4x Klemmschraube Batterie | 12.06.2023 | 9,98   |         | 355,67  | Amazon          |
+| Gaskocher                 | 12.06.2023 | 50,39  |         | 305,28  | Gasfritzen      |
+| 28x Gaskartusche          | 12.06.2023 | 29,00  |         | 276,28  | Amazon          |
+| Laderegler Solar          | 18.06.2023 | 81,53  |         | 194,75  | Offgridtec      |
+| Tanks Abwasser            | 18.06.2023 | 51,80  |         | 142,95  | Obelink.de      |
 
 
 ### geplante Kosten
