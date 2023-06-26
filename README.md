@@ -28,14 +28,22 @@
 | Laderegler, Kabel         | 18.06.2023 | 81,53  |         | 194,75  | Offgridtec      |
 | Tanks Abwasser            | 18.06.2023 | 51,80  |         | 142,95  | Obelink.de      |
 | Elektrik, Stecker usw.    | 21.06.2023 | 40,40  |         | 102,55  | voelkner.de     |
+| Batterie Pfand            | 26.06.2023 |        | 7,50    | 110,05  | Batterie24.de   |
+| ==Eingang Iven==          | 26.06.2023 |        | 100     | 210,05  | von Konto Iven  |
+| ==Eingang Anita==         | 26.06.2023 |        | 100     | 310,05  | von Konto A&T   |
+| Kühlbox                   | 26.06.2023 | 139,99 |         | 170,06  | Amazon          |
 
 
 ### geplante Kosten
 
-| Kostenart             | Datum | Betrag | Bemerkung    |
-|-----------------------|-------|--------|--------------|
-| ~~Kühlbox~~           |       | 400    |              |
-| Solar                 |       | 500    |              |
-| ~~neue Sommerreifen~~ |       | 600    | Profil 5-8mm |
-| Marderscheuche        |       | 60     |              |
+| Kostenart               | Datum | Betrag | Bemerkung    |
+|-------------------------|-------|--------|--------------|
+| neue Sommerreifen vorne |       | 250    | Profil 5-8mm |
+| Marderscheuche          |       | 60     |              |
+| Diebstahlsicherung      |       | 40     |              |
+
+
+Kette + Schloss als Diebstahlsicherung
+
+https://www.thal-versand.de/Ketten-und-Kettenglieder/Schweisskette-DIN-5685-langgl/10m-Schweisskette-6mm-x-42mm-langgliedrig-DIN-5685-Stahlkette-Kette-verzinkt.html
 
