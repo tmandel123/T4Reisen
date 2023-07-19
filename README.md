@@ -32,7 +32,10 @@
 | ==Eingang Iven==          | 26.06.2023 |        | 100     | 210,05  | von Konto Iven  |
 | ==Eingang Anita==         | 26.06.2023 |        | 100     | 310,05  | von Konto A&T   |
 | Kühlbox                   | 26.06.2023 | 139,99 |         | 170,06  | Amazon          |
-
+| Porta Potti               | 28.06.2023 | 50,00  |         | 120,06  | Kleinanzeigen   |
+| Rostschutz DB 703         | 09.07.2023 | 26,45  |         | 93,61   | Rostdoc         |
+| Solar Laderegler verkauft | 16.07.2023 |        | 50      | 143,61  | Kleinanzeigen   |
+| Gießkanne, Spanngurte     | 18.07.2023 | 7,25   |         | 136,36  | Bauhaus         |
 
 ### geplante Kosten
 
